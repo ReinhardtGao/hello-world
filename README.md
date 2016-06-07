@@ -1,2 +1,5 @@
 # hello-world
-Test repository
+
+Just build the first repository to exercise...
+
+Reinhardt
